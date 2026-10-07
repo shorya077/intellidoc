@@ -1,0 +1,6 @@
+INVOICE #INV-2041
+Acme Supplies Ltd.
+Date: 2026-09-14
+Widgets x 40 @ $12.50 = $500.00
+Shipping: $25.00
+Total due: $525.00 USD

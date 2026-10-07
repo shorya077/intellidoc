@@ -1,0 +1,4 @@
+Asha Verma
+asha@example.com
+Skills: Python, SQL, LangGraph
+5 years experience as a data engineer.
