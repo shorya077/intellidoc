@@ -82,7 +82,3 @@ Output goes to `data/`: `intellidoc.db` (SQLite records), `events.jsonl` (monito
 
 `test_intellidoc.py` stubs the LLM and checks: happy path, routing by type, validation failure
 leading to escalation and the review queue, retry recovery, and the monitoring stream.
-
-## Limitations
-- Scanned PDFs / images need OCR (not yet implemented).
-- Adapters write to SQLite; replace them with real ERP/HR/contract API calls.
